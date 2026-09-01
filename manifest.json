@@ -2,10 +2,18 @@
   "generatedAt": "2026-07-15T07:12:17.422Z",
   "layout": "widget-media",
   "counts": {
+    "avatarPreviews": 5,
     "designStyles": 24,
     "voiceSamples": 35,
     "scenarios": 6
   },
+  "avatarPreviews": [
+    "avatar/dfecc834-62e7-49b4-92e7-9a426fa8e4b5",
+    "avatar/a5fe5343-b676-4ac2-9fb6-44ba9364a78f",
+    "avatar/2ef08a59-3f9b-4313-aaad-003b7d0a62e5",
+    "avatar/d8ec2840-f0e1-47e1-8e57-74a0080bab00",
+    "avatar/1300dcbc-5a9f-4a0d-b5c6-3e756209c81c"
+  ],
   "designStyles": [
     "design-style/1a08a7ea-e138-5ee0-922f-8a92219211d6",
     "design-style/035ef37f-5da9-5607-9f3c-bc7c062ae7a9",
