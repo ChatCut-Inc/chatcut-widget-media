@@ -16,7 +16,7 @@ Published layout:
 
 Use immutable jsDelivr URLs, for example:
 
-`https://cdn.jsdelivr.net/gh/ChatCut-Inc/chatcut-widget-media@<tag>/widget-media/voice-samples/doubao-vivi.mp3`
+`https://cdn.jsdelivr.net/gh/ChatCut-Inc/chatcut-widget-media@56567972db8342367bfbcceb73392c641fbb04a0/widget-media/voice-samples/doubao-vivi.mp3`
 
 Avatar media keys are opaque public-repository keys, not ChatCut identity IDs.
 The backend maps stable provider look IDs to these keys because identity IDs can
