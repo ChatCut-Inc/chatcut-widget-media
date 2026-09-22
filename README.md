@@ -13,3 +13,5 @@ Published layout:
 Use immutable jsDelivr URLs, for example:
 
 `https://cdn.jsdelivr.net/gh/ChatCut-Inc/chatcut-widget-media@<tag>/widget-media/voice-samples/doubao-vivi.mp3`
+
+Japanese auditions use `widget-media/voice-samples/doubao-<voiceId>-ja.mp3` (23 documented presets). All read the same text: 「こんにちは。この声を気に入っていただけるとうれしいです。」 Existing voice names and original Chinese/English samples are unchanged. Synthesized with seed-tts-2.0 and explicit Japanese, 24 kHz MP3.
